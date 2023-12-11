@@ -20,7 +20,7 @@ class _DesktopScreenState extends State<DesktopScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue[100],
+      backgroundColor: Colors.grey[300],
       body: SizedBox(
         width: double.infinity,
         height: double.infinity,
